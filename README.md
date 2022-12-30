@@ -16,5 +16,5 @@ Continuous Delivery (CD) is complementary to CI; collectively known as the "CI/C
 * [Blog: Continuous Integration vs. Delivery vs. Deployment -- By Jetbrains](https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration-vs-delivery-vs-deployment/)
 * [Blog: Understanding CI/CD Pipelines -- By Jetbrains](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-pipeline/)
 * [Blog: What is a CI Server? -- By Jetbrains](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-tools/servers/)
-* [Blog: A Guide to CI/CD Tools](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-tools/)
+* [Blog: A Guide to CI/CD Tools -- By Jetbrains](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-tools/)
 * [Blog: Testing stages in continuous integration and continuous delivery -- By AWS](https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/testing-stages-in-continuous-integration-and-continuous-delivery.html)
